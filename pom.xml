@@ -12,6 +12,7 @@
       <module>prototype-pattern</module>
       <module>proxy-pattern</module>
       <module>adapter-pattern</module>
+      <module>bridge-pattern</module>
   </modules>
 
 
