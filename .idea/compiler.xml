@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="adapter-pattern" />
+        <module name="designPattern-factory-abstract" />
+        <module name="designPattern-factory-method" />
+        <module name="designPattern-factory-simple" />
+        <module name="prototype-pattern" />
+        <module name="proxy-pattern" />
+        <module name="singleton-pattern-double-lock" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="adapter-pattern" target="1.5" />
+      <module name="designPattern" target="1.5" />
+      <module name="designPattern-factory" target="1.5" />
+      <module name="designPattern-factory-abstract" target="1.5" />
+      <module name="designPattern-factory-method" target="1.5" />
+      <module name="designPattern-factory-simple" target="1.5" />
+      <module name="prototype-pattern" target="1.5" />
+      <module name="proxy-pattern" target="1.5" />
+      <module name="singleton-pattern" target="1.5" />
+      <module name="singleton-pattern-double-lock" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

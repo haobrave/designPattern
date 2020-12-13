@@ -8,6 +8,10 @@
   <description>designPattern</description>
   <modules>
   	<module>designPattern-factory</module>
+      <module>singleton-pattern</module>
+      <module>prototype-pattern</module>
+      <module>proxy-pattern</module>
+      <module>adapter-pattern</module>
   </modules>
 
 

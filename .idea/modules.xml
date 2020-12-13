@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adapter-pattern/adapter-pattern.iml" filepath="$PROJECT_DIR$/adapter-pattern/adapter-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designPattern.iml" filepath="$PROJECT_DIR$/designPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designPattern-factory/designPattern-factory.iml" filepath="$PROJECT_DIR$/designPattern-factory/designPattern-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designPattern-factory/designPattern-factory-abstract/designPattern-factory-abstract.iml" filepath="$PROJECT_DIR$/designPattern-factory/designPattern-factory-abstract/designPattern-factory-abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designPattern-factory/designPattern-factory-method/designPattern-factory-method.iml" filepath="$PROJECT_DIR$/designPattern-factory/designPattern-factory-method/designPattern-factory-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designPattern-factory/designPattern-factory-simple/designPattern-factory-simple.iml" filepath="$PROJECT_DIR$/designPattern-factory/designPattern-factory-simple/designPattern-factory-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prototype-pattern/prototype-pattern.iml" filepath="$PROJECT_DIR$/prototype-pattern/prototype-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy-pattern/proxy-pattern.iml" filepath="$PROJECT_DIR$/proxy-pattern/proxy-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton-pattern/singleton-pattern.iml" filepath="$PROJECT_DIR$/singleton-pattern/singleton-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton-pattern/singleton-pattern-double-lock/singleton-pattern-double-lock.iml" filepath="$PROJECT_DIR$/singleton-pattern/singleton-pattern-double-lock/singleton-pattern-double-lock.iml" />
+    </modules>
+  </component>
+</project>
